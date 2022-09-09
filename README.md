@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C268%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C272%20hrs%2038%20mins-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -53,7 +53,7 @@ solvclass.com            22 hrs 22 mins      ███████████�
 ```
 
 
- Last Updated on 08/09/2022 18:50:32 UTC
+ Last Updated on 09/09/2022 18:51:18 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
