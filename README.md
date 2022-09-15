@@ -30,10 +30,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C277%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C283%20hrs%203%20mins-blue)
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+⌚︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+PHP                      7 hrs 35 mins       ███████████████░░░░░░░░░░   62.14% 
+Blade Template           2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+JavaScript               2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+🔥 에디터들: 
+PhpStorm                 12 hrs 13 mins      █████████████████████████   100.0%
+
+🐱‍💻 프로젝트들: 
+solvclass.com            12 hrs 13 mins      █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 14/09/2022 18:51:11 UTC
+ Last Updated on 15/09/2022 18:50:37 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
