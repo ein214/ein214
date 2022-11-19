@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C368%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C369%20hrs%2044%20mins-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -54,7 +54,7 @@ ddd-forum                3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/11/2022 18:45:28 UTC
+ Last Updated on 19/11/2022 18:43:04 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
