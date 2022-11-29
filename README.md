@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2031%20mins-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -38,20 +38,20 @@
 ⌚︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    46 mins             ████████████████████████░   98.94% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Other                    18 mins             ████████████████████████░   97.42% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 🔥 에디터들: 
-VS Code                  47 mins             █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 🐱‍💻 프로젝트들: 
-Unknown Project          46 mins             ████████████████████████░   98.94% 
-solvook-system           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Unknown Project          18 mins             ████████████████████████░   97.42% 
+solvook-system           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 ```
 
 
- Last Updated on 28/11/2022 18:43:00 UTC
+ Last Updated on 29/11/2022 18:41:17 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
