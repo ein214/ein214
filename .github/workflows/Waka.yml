@@ -25,6 +25,5 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_OS: "False"
           SHOW_LANGUAGE: "True"
-          Timezone: "Asia/Seoul"
           
           
