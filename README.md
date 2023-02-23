@@ -35,21 +35,22 @@
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
-⌚︎ Timezone: Asia/Seoul
+🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+JavaScript               0 secs              ███████████████░░░░░░░░░░   61.71 % 
+Vue.js                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
-
+solvook-system           0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/02/2023 18:39:02 UTC
+ Last Updated on 23/02/2023 02:22:41 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
