@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C445%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C448%20hrs%2056%20mins-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -55,7 +55,7 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/03/2023 18:37:18 UTC
+ Last Updated on 18/03/2023 18:36:04 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
