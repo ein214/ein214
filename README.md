@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C635%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C639%20hrs%208%20mins-blue)
 
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
@@ -71,7 +71,7 @@ nestjs-serverless-lambda-0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/07/2024 18:41:07 UTC
+ Last Updated on 20/07/2024 18:40:23 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
