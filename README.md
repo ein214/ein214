@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C268%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C272%20hrs%2052%20mins-blue)
 
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
@@ -69,7 +69,7 @@ tosspayments-sample-v1   27 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/07/2025 18:50:20 UTC
+ Last Updated on 05/07/2025 18:47:41 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
