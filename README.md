@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C409%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C413%20hrs%2026%20mins-blue)
 
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
@@ -69,7 +69,7 @@ Unknown Project          1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/08/2025 18:50:52 UTC
+ Last Updated on 23/08/2025 18:47:18 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
