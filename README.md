@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C625%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C629%20hrs%2056%20mins-blue)
 
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
@@ -70,7 +70,7 @@ solvook-expert-ko-backend19 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/11/2025 18:53:36 UTC
+ Last Updated on 29/11/2025 18:52:48 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
