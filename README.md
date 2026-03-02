@@ -32,45 +32,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C846%20hrs%2016%20mins-blue?style=flat)
 
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
-```text
-월요일                      5093 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-화요일                      6008 commits        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-수요일                      5768 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-목요일                      6420 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-금요일                      5288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-토요일                      45 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               21 hrs 3 mins       ██████████████████████░░░   87.13 % 
-Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-
-🔥 에디터들: 
-VS Code                  19 hrs 26 mins      ████████████████████░░░░░   80.45 % 
-IntelliJ IDEA            4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-
-🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  22 hrs 14 mins      ███████████████████████░░   92.04 % 
-solvook-settlement       1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-solvook-marketplace-backe11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-solvook-dashboard-backend5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-```
-
-
- Last Updated on 01/03/2026 19:00:15 UTC
+ Last Updated on 02/03/2026 19:14:43 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
