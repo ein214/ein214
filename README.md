@@ -30,17 +30,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C880%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C885%20hrs%2010%20mins-blue?style=flat)
 
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      5321 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-화요일                      6245 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-수요일                      5816 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-목요일                      6523 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-금요일                      5500 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-토요일                      44 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+월요일                      5410 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+화요일                      6350 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+수요일                      5917 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+목요일                      6633 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+금요일                      5600 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+토요일                      43 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
@@ -51,26 +51,26 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               6 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.36 % 
-Terraform                4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
-YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TypeScript               8 hrs 22 mins       █████████████░░░░░░░░░░░░   51.18 % 
+Terraform                5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 에디터들: 
-VS Code                  7 hrs 44 mins       ██████████████░░░░░░░░░░░   55.11 % 
-IntelliJ IDEA            6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
+VS Code                  9 hrs 53 mins       ███████████████░░░░░░░░░░   60.42 % 
+IntelliJ IDEA            6 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.58 % 
 
 🐱‍💻 프로젝트들: 
-solvook-redis-jobs       7 hrs 5 mins        █████████████░░░░░░░░░░░░   50.46 % 
-solvook-infrastructure   2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-solvook-marketplace-backe2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-solvook-dashboard-backend1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-solvook-adminjs-backend  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+solvook-redis-jobs       8 hrs 12 mins       █████████████░░░░░░░░░░░░   50.16 % 
+solvook-marketplace-backe2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+solvook-infrastructure   2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+solvook-settlement       1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+solvook-adminjs-backend  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
- Last Updated on 17/03/2026 19:39:28 UTC
+ Last Updated on 18/03/2026 19:34:09 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
