@@ -30,10 +30,46 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C943%20hrs%2029%20mins-blue?style=flat)
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      7511 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+화요일                      8830 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+수요일                      8035 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+목요일                      9174 commits        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+금요일                      7851 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+토요일                      54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+일요일                      19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
 
 
- Last Updated on 17/04/2026 19:42:03 UTC
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               10 hrs 56 mins      ██████████████████░░░░░░░   71.25 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+HTTP Request             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+
+🔥 에디터들: 
+VS Code                  6 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.73 % 
+IntelliJ IDEA            4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Unknown Editor           4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+
+🐱‍💻 프로젝트들: 
+solvook-settlement       10 hrs 18 mins      █████████████████░░░░░░░░   67.11 % 
+solvook-dashboard-backend2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Unknown Project          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+solvook-marketplace-backe52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+solvook-redis-jobs       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+
+
+ Last Updated on 18/04/2026 19:18:49 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
