@@ -51,27 +51,27 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               12 hrs 12 mins      █████████████████░░░░░░░░   69.81 % 
-Markdown                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TypeScript               8 hrs 50 mins       ██████████████████░░░░░░░   72.64 % 
+Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 에디터들: 
-VS Code                  14 hrs 50 mins      █████████████████████░░░░   84.91 % 
-Unknown Editor           2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-IntelliJ IDEA            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+VS Code                  10 hrs 39 mins      ██████████████████████░░░   87.56 % 
+Unknown Editor           1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+IntelliJ IDEA            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🐱‍💻 프로젝트들: 
-solvook-settlement       7 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.69 % 
-solvook-adminjs-backend  6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.22 % 
-solvook-dashboard-backend2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Unknown Project          1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-solvook-marketplace-backe23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+solvook-settlement       6 hrs 53 mins       ██████████████░░░░░░░░░░░   56.57 % 
+solvook-adminjs-backend  2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+solvook-dashboard-backend1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Unknown Project          44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+solvook-marketplace-backe21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 
- Last Updated on 30/04/2026 20:04:33 UTC
+ Last Updated on 01/05/2026 19:54:57 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
