@@ -30,48 +30,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C004%20hrs%2055%20mins-blue?style=flat)
-
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
-
-```text
-월요일                      8220 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-화요일                      9612 commits        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-수요일                      8680 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-목요일                      9880 commits        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-금요일                      8552 commits        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-토요일                      52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-일요일                      24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C009%20hrs%201%20min-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               14 hrs 25 mins      ██████████████████░░░░░░░   70.21 % 
-Other                    3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-🔥 에디터들: 
-VS Code                  19 hrs 22 mins      ████████████████████████░   94.33 % 
-IntelliJ IDEA            46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Unknown Editor           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-
-🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  10 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.98 % 
-solvook-settlement       8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-solvook-marketplace-backe54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-solvook-dashboard-backend0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-```
-
-
- Last Updated on 13/05/2026 20:29:04 UTC
+ Last Updated on 14/05/2026 20:24:48 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
