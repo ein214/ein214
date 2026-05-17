@@ -30,48 +30,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C014%20hrs%2033%20mins-blue?style=flat)
 
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
-
-```text
-월요일                      8336 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-화요일                      9766 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-수요일                      8818 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-목요일                      10045 commits       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-금요일                      8652 commits        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-토요일                      54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-일요일                      24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               13 hrs 23 mins      ██████████████████░░░░░░░   71.44 % 
-Other                    2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-🔥 에디터들: 
-VS Code                  18 hrs 9 mins       ████████████████████████░   96.89 % 
-IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Unknown Editor           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-
-🐱‍💻 프로젝트들: 
-solvook-settlement       10 hrs 52 mins      ███████████████░░░░░░░░░░   58.04 % 
-solvook-adminjs-backend  6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
-Unknown Project          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-solvook-marketplace-backe11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-solvook-dashboard-backend4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-```
-
-
- Last Updated on 16/05/2026 19:44:55 UTC
+ Last Updated on 17/05/2026 19:53:32 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
