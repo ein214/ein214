@@ -30,10 +30,48 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C026%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C030%20hrs%2057%20mins-blue?style=flat)
+
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      8456 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+화요일                      9901 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+수요일                      8938 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+목요일                      10207 commits       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+금요일                      8762 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+토요일                      58 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+일요일                      25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
 
 
- Last Updated on 19/05/2026 20:23:15 UTC
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               16 hrs 31 mins      ██████████████████████░░░   88.28 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 에디터들: 
+VS Code                  18 hrs 13 mins      ████████████████████████░   97.29 % 
+IntelliJ IDEA            23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+
+🐱‍💻 프로젝트들: 
+solvook-settlement       9 hrs 21 mins       ████████████░░░░░░░░░░░░░   49.99 % 
+solvook-adminjs-backend  8 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.07 % 
+Unknown Project          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+solvook-marketplace-backe11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+solvook-dashboard-backend4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+
+
+ Last Updated on 20/05/2026 20:45:05 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
