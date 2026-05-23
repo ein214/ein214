@@ -30,44 +30,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
-```text
-월요일                      8218 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-화요일                      9476 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-수요일                      8548 commits        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-목요일                      9852 commits        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-금요일                      8495 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-토요일                      50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-일요일                      27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               17 hrs 18 mins      ███████████████████████░░   90.81 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-🔥 에디터들: 
-VS Code                  18 hrs 43 mins      █████████████████████████   98.24 % 
-Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  14 hrs 56 mins      ████████████████████░░░░░   78.38 % 
-solvook-settlement       3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-```
-
-
- Last Updated on 22/05/2026 20:27:46 UTC
+ Last Updated on 23/05/2026 19:49:55 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
