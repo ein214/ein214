@@ -30,8 +30,47 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C041%20hrs%205%20mins-blue?style=flat)
 
- Last Updated on 23/05/2026 19:49:55 UTC
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      8257 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+화요일                      9517 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+수요일                      8583 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+목요일                      9905 commits        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+금요일                      8534 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+토요일                      51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+일요일                      27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               17 hrs 23 mins      ███████████████████████░░   90.64 % 
+Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+🔥 에디터들: 
+VS Code                  18 hrs 48 mins      █████████████████████████   98.07 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+
+🐱‍💻 프로젝트들: 
+solvook-adminjs-backend  13 hrs 21 mins      █████████████████░░░░░░░░   69.67 % 
+solvook-settlement       3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+solvook-marketplace-backe1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+```
+
+
+ Last Updated on 24/05/2026 19:53:02 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
