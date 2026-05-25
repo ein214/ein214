@@ -51,26 +51,26 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               17 hrs 23 mins      ███████████████████████░░   90.64 % 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               13 hrs 19 mins      ██████████████████████░░░   89.90 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 에디터들: 
-VS Code                  18 hrs 48 mins      █████████████████████████   98.07 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+VS Code                  14 hrs 26 mins      ████████████████████████░   97.51 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  13 hrs 21 mins      █████████████████░░░░░░░░   69.67 % 
-solvook-settlement       3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-solvook-marketplace-backe1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+solvook-adminjs-backend  10 hrs 24 mins      ██████████████████░░░░░░░   70.27 % 
+solvook-settlement       2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+solvook-marketplace-backe1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
- Last Updated on 24/05/2026 19:53:02 UTC
+ Last Updated on 25/05/2026 20:18:23 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
