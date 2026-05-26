@@ -35,12 +35,12 @@
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      8257 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-화요일                      9517 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-수요일                      8583 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-목요일                      9905 commits        ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-금요일                      8534 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-토요일                      51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+월요일                      8420 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+화요일                      9698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+수요일                      8722 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+목요일                      10050 commits       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+금요일                      8700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+토요일                      53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 일요일                      27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
@@ -51,26 +51,25 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               13 hrs 19 mins      ██████████████████████░░░   89.90 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               9 hrs 9 mins        ███████████████████████░░   90.75 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 에디터들: 
-VS Code                  14 hrs 26 mins      ████████████████████████░   97.51 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+VS Code                  9 hrs 49 mins       ████████████████████████░   97.30 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  10 hrs 24 mins      ██████████████████░░░░░░░   70.27 % 
-solvook-settlement       2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-solvook-marketplace-backe1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+solvook-adminjs-backend  8 hrs 14 mins       ████████████████████░░░░░   81.59 % 
+solvook-marketplace-backe1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+solvook-settlement       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
- Last Updated on 25/05/2026 20:18:23 UTC
+ Last Updated on 26/05/2026 20:40:15 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
