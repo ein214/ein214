@@ -37,8 +37,8 @@
 ```text
 월요일                      8420 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
 화요일                      9698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-수요일                      8722 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-목요일                      10050 commits       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+수요일                      8724 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+목요일                      10050 commits       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
 금요일                      8700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 토요일                      53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 일요일                      27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
@@ -51,25 +51,25 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               9 hrs 9 mins        ███████████████████████░░   90.75 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               7 hrs 15 mins       ██████████████████████░░░   89.78 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 에디터들: 
-VS Code                  9 hrs 49 mins       ████████████████████████░   97.30 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-IntelliJ IDEA            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+VS Code                  7 hrs 26 mins       ███████████████████████░░   92.13 % 
+Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+IntelliJ IDEA            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  8 hrs 14 mins       ████████████████████░░░░░   81.59 % 
-solvook-marketplace-backe1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-solvook-settlement       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+solvook-adminjs-backend  6 hrs 18 mins       ████████████████████░░░░░   78.07 % 
+solvook-marketplace-backe1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+solvook-settlement       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 26/05/2026 20:40:15 UTC
+ Last Updated on 27/05/2026 20:43:46 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
