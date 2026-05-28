@@ -30,46 +30,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C041%20hrs%205%20mins-blue?style=flat)
 
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
-
-```text
-월요일                      8420 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-화요일                      9698 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-수요일                      8724 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-목요일                      10050 commits       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-금요일                      8700 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-토요일                      53 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-일요일                      27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               7 hrs 15 mins       ██████████████████████░░░   89.78 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-
-🔥 에디터들: 
-VS Code                  7 hrs 26 mins       ███████████████████████░░   92.13 % 
-Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-IntelliJ IDEA            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-
-🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  6 hrs 18 mins       ████████████████████░░░░░   78.07 % 
-solvook-marketplace-backe1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-solvook-settlement       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-
-
- Last Updated on 27/05/2026 20:43:46 UTC
+ Last Updated on 28/05/2026 20:53:47 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
