@@ -30,48 +30,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C055%20hrs%2026%20mins-blue?style=flat)
-
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
-
-```text
-월요일                      8503 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-화요일                      9767 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-수요일                      8769 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-목요일                      10142 commits       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-금요일                      8793 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-토요일                      54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-일요일                      28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C062%20hrs%2023%20mins-blue?style=flat)
 
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               11 hrs 55 mins      ███████████████████████░░   91.01 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 에디터들: 
-VS Code                  12 hrs 46 mins      ████████████████████████░   97.62 % 
-IntelliJ IDEA            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  9 hrs 41 mins       ██████████████████░░░░░░░   73.98 % 
-solvook-settlement       1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-solvook-marketplace-backe1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-solvook-notification     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-solvook-redis-jobs       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-```
-
-
- Last Updated on 04/06/2026 20:40:39 UTC
+ Last Updated on 05/06/2026 20:30:31 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
