@@ -30,10 +30,48 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C062%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C064%20hrs%2020%20mins-blue?style=flat)
+
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      8503 commits        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+화요일                      9767 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+수요일                      8769 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+목요일                      10145 commits       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+금요일                      8796 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+토요일                      54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+일요일                      28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+```
 
 
- Last Updated on 05/06/2026 20:30:31 UTC
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+TypeScript               16 hrs 3 mins       ██████████████████████░░░   86.22 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Terraform                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+
+🔥 에디터들: 
+VS Code                  17 hrs 46 mins      ████████████████████████░   95.40 % 
+IntelliJ IDEA            37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+
+🐱‍💻 프로젝트들: 
+solvook-adminjs-backend  13 hrs 5 mins       ██████████████████░░░░░░░   70.32 % 
+solvook-settlement       2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+solvook-marketplace-backe1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+nestjs-serverless-lambda-40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+solvook-notification     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+```
+
+
+ Last Updated on 06/06/2026 19:59:33 UTC
 <!--END_SECTION:waka-->
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
