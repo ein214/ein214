@@ -8,6 +8,7 @@
 
 - 📧 einee214@gmail.com
 - 🔗 github.com/ein214
+- 📄 **Portfolio** — https://ein214.github.io/portfolio/ · **정산 Deep Dive** — https://ein214.github.io/portfolio/settlement.html
 
 ---
 
@@ -34,12 +35,8 @@
 ### Node.js 워커 RSS 메모리 누수 추적
 워커 RSS가 시간당 수백 MB씩 늘다 `spawn ENOMEM`으로 죽는 문제였습니다. heap과 external은 정상인데 RSS만 증가하는 상황이어서 애플리케이션 코드, glibc 단편화, heap 누수, GC 튜닝을 차례로 검토한 끝에 네이티브 라이브러리가 메모리를 반납하지 않는 것이 원인임을 확인했습니다. 라이브러리를 교체해 메모리 사용률을 약 40%에서 7% 수준으로 낮췄고 처리량이 늘어난 피크 구간에서도 안정적으로 유지됐습니다.
 
-<!-- 위 4개 글의 일반화 버전을 공개하면 아래에 링크를 연결하세요.
-- 정산 플랫폼 0→1 설계: (링크)
-- 천만 건 조회 개선: (링크)
-- Bull Queue 병목: (링크)
-- RSS 메모리 누수: (링크)
--->
+위 네 경험의 상세 — 문제 정의, 가설 기각 과정, 의사결정 근거 — 은 포트폴리오에 정리했습니다.
+→ **[Portfolio](https://ein214.github.io/portfolio/)** (4개 경험 전체) · **[정산 시스템 Deep Dive](https://ein214.github.io/portfolio/settlement.html)** (설계 배경·아키텍처)
 
 ---
 
@@ -64,8 +61,6 @@
 ## 기술 스택
 
 **Backend** Node.js · NestJS · TypeScript · PHP · Laravel
-
 **Database** PostgreSQL · MySQL · Redis
-
 **Infra** AWS (Beanstalk · SQS · S3 · CloudWatch)
 
