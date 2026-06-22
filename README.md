@@ -8,7 +8,8 @@
 
 - 📧 einee214@gmail.com
 - 🔗 github.com/ein214
-- 📄 **Portfolio** — https://ein214.github.io/portfolio/ · **정산 Deep Dive** — https://ein214.github.io/portfolio/settlement.html
+- 📄 **Portfolio** — https://ein214.github.io/portfolio/
+- 📄 **정산 Deep Dive** — https://ein214.github.io/portfolio/settlement.html
 
 ---
 
