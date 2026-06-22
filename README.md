@@ -8,8 +8,7 @@
 
 - 📧 einee214@gmail.com
 - 🔗 github.com/ein214
-- 📄 **Portfolio** — https://ein214.github.io/portfolio/
-- 📄 **정산 Deep Dive** — https://ein214.github.io/portfolio/settlement.html
+- 📄 **Portfolio** — https://ein214.github.io/portfolio/ · **정산 Deep Dive** — https://ein214.github.io/portfolio/settlement.html
 
 ---
 
@@ -43,16 +42,16 @@
 
 ## 경력 요약
 
-**(주)북아이피스** · Backend Developer · 2022.05 ~ 재직 중
+**(주)북아이피스** · Backend Developer · 2022.05 ~ 재직 중\
 정산 시스템 0→1 설계·구축(SQS 기반 비동기 정산·1:N 저작권 분배·일할 정산), 정산 조회 전용 Read DB(CQRS) 구축, 저자 라이선스·정산 시스템 개편, Redis Job 메모리 누수 안정화, Watermark Queue 처리량·모니터링 개선, Express→NestJS 점진적 전환, AdminJS 기반 운영 도구 공통화.
 
-**(주)유니윌 / 위즈페이** · 2020.07 ~ 2022.04
+**(주)유니윌 / 위즈페이** · 2020.07 ~ 2022.04\
 온라인 교육 플랫폼 개발·운영, 정산 시스템 개발, AWS 환경 운영.
 
-**주식회사 큐브시스템** · 2018.04 ~ 2020.06
+**주식회사 큐브시스템** · 2018.04 ~ 2020.06\
 블록체인 월렛 서비스 및 API 개발, Laravel 기반 배치·정산 시스템 개발.
 
-**(주)이비즈네트웍스** · 2013.03 ~ 2017.11
+**(주)이비즈네트웍스** · 2013.03 ~ 2017.11\
 여행 플랫폼·관리자 시스템 개발, 외부 제휴 REST API, 검색 성능 개선.
 
 *초기 경력(2011~2012, 웹 퍼블리싱·유지보수) 포함 총 14년 2개월.*
@@ -61,7 +60,7 @@
 
 ## 기술 스택
 
-**Backend** Node.js · NestJS · TypeScript · PHP · Laravel
-**Database** PostgreSQL · MySQL · Redis
+**Backend** Node.js · NestJS · TypeScript · PHP · Laravel\
+**Database** PostgreSQL · MySQL · Redis\
 **Infra** AWS (Beanstalk · SQS · S3 · CloudWatch)
 
