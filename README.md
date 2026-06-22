@@ -1,80 +1,71 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Elin&fontSize=90&animation=twinkling)
 
-#### Hi there 👋, I'm <b>Web developer</b> using PHP. ####
+# 고은지 (Elin)
 
-<!--
-- 🔭 I’m currently working on Uniwill
-- 🌱 I’m currently learning Vue or React or Python.
+**Node.js · NestJS 기반 백엔드 개발 14년차.** 정산·결제·라이선스처럼 데이터가 틀리면 곧 서비스 신뢰가 무너지는 영역을 주로 다룹니다.
+
+정산 도메인을 0부터 설계해 운영까지 책임졌고 대용량 조회 구조 개선과 비동기 처리, 장애 근본 원인 추적이 주력입니다. 화려한 단발성 성과보다 오래 함께 일하며 조직을 안정적으로 받치는 쪽에 가깝습니다.
+
+- 📧 einee214@gmail.com
+- 🔗 github.com/ein214
+
+---
+
+## What I do
+
+- **정산/결제 도메인** — 금융성 정확성(원 단위 정수 연산·불변성·감사추적)을 1급 요구사항으로 둔 정산 시스템 설계
+- **대용량 데이터 / 아키텍처** — 천만 건 규모 조회 구조 개선, CQRS·비정규화, SQS 기반 비동기 파이프라인
+- **트러블슈팅 / 안정화** — 메모리 누수·큐 병목 등 장애의 근본 원인을 끝까지 추적
+- **14년차 시니어 전반** — 운영 자동화, 점진적 마이그레이션, 백오피스 공통화로 조직 생산성 개선
+
+---
+
+## 대표 문제 해결 경험
+
+### 정산 플랫폼 0→1 설계
+전용 시스템 없이 수동 엑셀로 관리되던 정산을 기획자 1명과 함께 0부터 설계하고 구현했습니다. 출판사(원저작권)와 저자(2차 저작권)가 얽힌 다층 수익 분배가 핵심 난제였습니다. 주문을 정산 기초 데이터로 가공하는 파이프라인, 지문 하나에 여러 작품이 매핑되는 1:N 저작권 분배, 이용권의 일할 정산과 이용 점유율 반영을 모델링했습니다. 정산 오류는 코드로 구조화해 운영자가 개발자 없이 직접 보정할 수 있도록 했습니다.
+
+### 천만 건 규모 정산 데이터 조회 개선
+정산 데이터가 800만 건을 넘기면서 성수기 한 달 조회가 약 19초까지 걸렸습니다. VACUUM·REINDEX·파티셔닝 등 쿼리와 인덱스 차원의 개선을 먼저 시도했지만 효과가 없었습니다. EXPLAIN ANALYZE로 확인한 원인은 프루닝된 단일 파티션의 대량 행과 다중 조인 때문에 옵티마이저가 인덱스 대신 Seq Scan을 택한 것이었습니다. 쿼리 튜닝만으로는 한계가 있다고 판단해 문제를 데이터 모델 차원으로 옮겼습니다. 조인이 없는 조회 전용 Flat Table을 두고 메시지 큐로 동기화해 읽기 경로를 분리했습니다(CQRS).
+
+### Bull Queue 처리 지연 장애 대응
+개별 작업은 1~5초면 끝나는데 사용자 대기 시간이 31분까지 늘어난 장애였습니다. "작업이 느린 것"과 "큐가 밀리는 것"을 구분하는 데서 시작해 concurrency 미설정으로 백로그가 쌓인 것이 원인임을 확인했습니다. concurrency 조정으로 끝내지 않고 lock·stalled 설정, stalled 작업의 멱등성, graceful shutdown, 오토스케일링 정책까지 큐 운영 전반을 함께 정리했습니다.
+
+### Node.js 워커 RSS 메모리 누수 추적
+워커 RSS가 시간당 수백 MB씩 늘다 `spawn ENOMEM`으로 죽는 문제였습니다. heap과 external은 정상인데 RSS만 증가하는 상황이어서 애플리케이션 코드, glibc 단편화, heap 누수, GC 튜닝을 차례로 검토한 끝에 네이티브 라이브러리가 메모리를 반납하지 않는 것이 원인임을 확인했습니다. 라이브러리를 교체해 메모리 사용률을 약 40%에서 7% 수준으로 낮췄고 처리량이 늘어난 피크 구간에서도 안정적으로 유지됐습니다.
+
+<!-- 위 4개 글의 일반화 버전을 공개하면 아래에 링크를 연결하세요.
+- 정산 플랫폼 0→1 설계: (링크)
+- 천만 건 조회 개선: (링크)
+- Bull Queue 병목: (링크)
+- RSS 메모리 누수: (링크)
 -->
 
-<!---#### I am PHP developer --->
+---
 
-## 💌 Contact ME ###
-[<img src='https://img.shields.io/badge/-EunjiKo-%230A66C2?style=flat-square&logo=LinkedIn&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eunji-ko-00a907164//)  [<img src='https://img.shields.io/badge/-einee214%40gmail.com-%23EA4335?style=flat-square&logo=Gmail&logoColor=white' alt='gmail'>](einee214@gmail.com)  
+## 경력 요약
 
+**(주)북아이피스** · Backend Developer · 2022.05 ~ 재직 중
+정산 시스템 0→1 설계·구축(SQS 기반 비동기 정산·1:N 저작권 분배·일할 정산), 정산 조회 전용 Read DB(CQRS) 구축, 저자 라이선스·정산 시스템 개편, Redis Job 메모리 누수 안정화, Watermark Queue 처리량·모니터링 개선, Express→NestJS 점진적 전환, AdminJS 기반 운영 도구 공통화.
 
-## ✨ Languages
-<img src='https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=PHP&logoColor=white'> <img src='https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=Laravel&logoColor=white'> <img src='https://img.shields.io/badge/Jquery-%230769AD?style=for-the-badge&logo=Jquery&logoColor=white'> <img src='https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white'> <img src='https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white' > <img src='https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white' >
+**(주)유니윌 / 위즈페이** · 2020.07 ~ 2022.04
+온라인 교육 플랫폼 개발·운영, 정산 시스템 개발, AWS 환경 운영.
 
-## 🌷 TOOLS
-<img src='https://img.shields.io/badge/PHPSTORM-%23000000?style=for-the-badge&logo=PhpStorm&logoColor=white' > <img src='https://img.shields.io/badge/GitLab-%23FCA121?style=for-the-badge&logo=GitLab&logoColor=white' > <img src='https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white'>
+**주식회사 큐브시스템** · 2018.04 ~ 2020.06
+블록체인 월렛 서비스 및 API 개발, Laravel 기반 배치·정산 시스템 개발.
 
+**(주)이비즈네트웍스** · 2013.03 ~ 2017.11
+여행 플랫폼·관리자 시스템 개발, 외부 제휴 REST API, 검색 성능 개선.
 
-## 🌞 WISH
-- Vue or React
-- Swift
-- Flutter
-- Python
+*초기 경력(2011~2012, 웹 퍼블리싱·유지보수) 포함 총 14년 2개월.*
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ein214&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 기술 스택
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C078%20hrs%2014%20mins-blue?style=flat)
+**Backend** Node.js · NestJS · TypeScript · PHP · Laravel
 
-📅 **제가 가장 생산적인 날은 목요일이에요.** 
+**Database** PostgreSQL · MySQL · Redis
 
-```text
-월요일                      8703 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-화요일                      9956 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-수요일                      8870 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-목요일                      10246 commits       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-금요일                      8956 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-토요일                      49 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-일요일                      30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               5 hrs 22 mins       █████████████████░░░░░░░░   67.87 % 
-Markdown                 1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-.env file                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-🔥 에디터들: 
-VS Code                  6 hrs 36 mins       █████████████████████░░░░   83.37 % 
-Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-IntelliJ IDEA            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-
-🐱‍💻 프로젝트들: 
-solvook-adminjs-backend  4 hrs 3 mins        █████████████░░░░░░░░░░░░   51.15 % 
-solvook-settlement       2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
-포트폴리오raw데이터              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-solvook-redis-jobs       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-solvook-marketplace-backe9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-```
-
-
- Last Updated on 21/06/2026 20:18:42 UTC
-<!--END_SECTION:waka-->
-
-<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ein214&show_icons=true&theme=dracula)  --->
-
-
+**Infra** AWS (Beanstalk · SQS · S3 · CloudWatch)
 
