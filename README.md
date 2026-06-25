@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Elin&fontSize=90&animation=twinkling)
-
 # 고은지 (Elin)
 
 **Node.js · NestJS 기반 백엔드 개발 14년차.** 정산·결제·라이선스처럼 데이터 정확성이 중요한 영역을 주로 다뤄왔습니다.
@@ -8,7 +6,7 @@
 
 - 📧 einee214@gmail.com
 - 🔗 github.com/ein214
-- 📄 **Portfolio** — https://ein214.github.io/portfolio/ · **정산 Deep Dive** — https://ein214.github.io/portfolio/settlement.html
+- 📄 **Portfolio** — https://ein214.github.io/portfolio/
 
 ---
 
@@ -23,20 +21,23 @@
 
 ## 대표 문제 해결 경험
 
-### 정산 플랫폼 0→1 설계
-전용 시스템 없이 수동 엑셀로 관리되던 정산을 기획자 1명과 함께 0부터 설계하고 구현했습니다. 출판사(원저작권)와 저자(2차 저작권)가 얽힌 다층 수익 분배가 가장 복잡한 부분이었습니다. 주문을 정산 기초 데이터로 가공하는 파이프라인, 지문 하나에 여러 작품이 매핑되는 1:N 저작권 분배, 이용권의 일할 정산과 이용 점유율 반영을 모델링했습니다. 정산 오류는 코드로 구조화해 운영자가 개발자 없이 직접 보정할 수 있도록 했습니다.
+### [정산 플랫폼 0→1 설계](https://github.com/ein214/portfolio/blob/main/troubleshooting/settlement-system-zero-to-one.md)
+수동 엑셀 정산을 기획자 1명과 0부터 설계·구현했습니다. 출판사·저자가 얽힌 1:N 수익 분배와 이용권 일할 정산을 데이터 모델로 풀고 정산 오류를 코드화해 운영자가 직접 보정하는 자가복구 구조까지 만들었습니다.
 
-### 천만 건 규모 정산 데이터 조회 개선
-정산 데이터가 800만 건을 넘기면서 성수기 한 달 조회가 약 19초까지 걸렸습니다. VACUUM·REINDEX·파티셔닝 등 쿼리와 인덱스 차원의 개선을 먼저 시도했지만 효과가 없었습니다. EXPLAIN ANALYZE로 확인한 원인은 프루닝된 단일 파티션의 대량 행과 다중 조인 때문에 옵티마이저가 인덱스 대신 Seq Scan을 택한 것이었습니다. 쿼리 튜닝만으로는 한계가 있다고 판단해 문제를 데이터 모델 차원으로 옮겼습니다. 조인이 없는 조회 전용 Flat Table을 두고 메시지 큐로 동기화해 읽기 경로를 분리했습니다(CQRS).
+### [천만 건 정산 조회 개선](https://github.com/ein214/portfolio/blob/main/troubleshooting/settlement-query-optimization.md)
+정산 800만 건 규모에서 한 달 조회가 19초까지 걸렸습니다. 인덱스·파티셔닝으로 풀리지 않아 문제를 쿼리에서 데이터 모델로 옮겨 조회 전용 Flat Table과 큐 동기화로 읽기 경로를 분리했습니다(CQRS).
 
-### Bull Queue 처리 지연 장애 대응
-개별 작업은 1~5초면 끝나는데 사용자 대기 시간이 31분까지 늘어난 장애였습니다. "작업이 느린 것"과 "큐가 밀리는 것"을 구분하는 데서 시작해 concurrency 미설정으로 백로그가 쌓인 것이 원인임을 확인했습니다. concurrency 조정으로 끝내지 않고 lock·stalled 설정, stalled 작업의 멱등성, graceful shutdown, 오토스케일링 정책까지 큐 운영 전반을 함께 정리했습니다.
+### [Bull Queue 처리 지연 장애](https://github.com/ein214/portfolio/blob/main/troubleshooting/bull-queue-bottleneck.md)
+개별 작업은 1~5초인데 사용자 대기가 31분까지 늘었습니다. "느린 작업"과 "밀린 큐"를 구분해 concurrency 미설정이 원인임을 짚고 멱등성·graceful shutdown·오토스케일링까지 큐 운영 전반을 정비했습니다.
 
-### Node.js 워커 RSS 메모리 누수 추적
-워커 RSS가 시간당 수백 MB씩 늘다 `spawn ENOMEM`으로 죽는 문제였습니다. heap과 external은 정상인데 RSS만 증가하는 상황이어서 애플리케이션 코드, glibc 단편화, heap 누수, GC 튜닝을 차례로 검토한 끝에 네이티브 라이브러리가 메모리를 반납하지 않는 것이 원인임을 확인했습니다. 라이브러리를 교체해 메모리 사용률을 약 40%에서 7% 수준으로 낮췄고 처리량이 늘어난 피크 구간에서도 안정적으로 유지됐습니다.
+### [Node.js 워커 RSS 메모리 누수 추적](https://github.com/ein214/portfolio/blob/main/troubleshooting/redis-job-memory-leak.md)
+워커 RSS가 시간당 수백 MB씩 늘다 `spawn ENOMEM`으로 죽는 문제였습니다. heap은 정상인데 RSS만 오르는 상황에서 가설을 차례로 기각해 네이티브 라이브러리의 메모리 미반환을 원인으로 특정했고 교체 후 메모리 사용률을 약 40%에서 7% 수준으로 낮췄습니다.
 
-위 네 경험의 상세 — 문제 정의, 가설 기각 과정, 의사결정 근거 — 은 포트폴리오에 정리했습니다.
-→ **[Portfolio](https://ein214.github.io/portfolio/)** (4개 경험 전체) · **[정산 시스템 Deep Dive](https://ein214.github.io/portfolio/settlement.html)** (설계 배경·아키텍처)
+### [백오피스 공통화 — ListBuilder](https://ein214.github.io/portfolio/listbuilder/)
+리스트 페이지마다 반복되던 조회·필터·정렬·엑셀 로직을 설정 객체 하나로 선언하는 재사용 빌더로 공통화했습니다. 관리자 페이지 10여 곳이 채택했습니다.
+
+각 경험의 상세 — 문제 정의, 가설 기각 과정, 의사결정 근거 — 는 포트폴리오에 정리했습니다.
+→ **[Portfolio](https://ein214.github.io/portfolio/)** (전체) · **[정산 시스템 Deep Dive](https://ein214.github.io/portfolio/settlement.html)** · **[ListBuilder Deep Dive](https://ein214.github.io/portfolio/listbuilder/)**
 
 ---
 
